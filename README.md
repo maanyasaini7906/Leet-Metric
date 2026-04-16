@@ -26,4 +26,4 @@ A web application that allows users to enter their LeetCode username and view th
 - Make sure you have an internet connection
 
 ## 👨‍💻 Author
-Your Name
+Maanya 
