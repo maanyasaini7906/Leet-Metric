@@ -18,12 +18,5 @@ A web application that allows users to enter their LeetCode username and view th
 2. Click on "Search"
 3. View your problem-solving stats instantly
 
-## 🌐 Live Demo
-(You can add your GitHub Pages link here)
-
-## 📌 Note
-- Uses a public API to fetch LeetCode data
-- Make sure you have an internet connection
-
 ## 👨‍💻 Author
 Maanya 
